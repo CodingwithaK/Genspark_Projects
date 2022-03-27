@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // need to add unit tests still
         Scanner getInput = new Scanner(System.in);
 
         System.out.println("You are in a land full of dragons.");
