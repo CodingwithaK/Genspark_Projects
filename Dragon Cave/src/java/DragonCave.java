@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Main {
+public class DragonCave {
     public static void main(String[] args) {
         // need to add unit tests still
         Scanner getInput = new Scanner(System.in);
