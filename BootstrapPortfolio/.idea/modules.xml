@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PortfolioBasicHTMLCSS.iml" filepath="$PROJECT_DIR$/PortfolioBasicHTMLCSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootstrapPortfolio.iml" filepath="$PROJECT_DIR$/BootstrapPortfolio.iml" />
     </modules>
   </component>
 </project>
